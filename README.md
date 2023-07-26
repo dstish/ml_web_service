@@ -33,8 +33,8 @@ To deploy in production:
 
 The API currently supports the following ML models:
 
-- LogisticRegression
-- SVC
+- Random Forest
+- Exit Trees
 
 See the code for details on model versions and endpoints.
 
